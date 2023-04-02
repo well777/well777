@@ -26,7 +26,10 @@ Redes Sociais ->
 <img align="center" alt="javasc" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=well777)](https://github.com/well777/github-readme-stats)
+
 ## Apaixonado por TIC e louco por Front End.
 
 Meu Contato : (91)98849-0499 <br>
 Meu email: <a href="wellinsantos84@gmail.com/">E-mail</a>
+
