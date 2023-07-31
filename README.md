@@ -9,7 +9,7 @@ Redes Sociais ->
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100091464671928)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-silva-544464214/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3B%2BybbsUQKSlOgXe62xMh2ew%3D%3D)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wellington_sinva/)
-[![Dart]( https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 
 ![well77 GitHub stats](https://github-readme-stats.vercel.app/api?username=well77&show_icons=true&theme=radical)
 
