@@ -1,8 +1,8 @@
 ## Falaaaaaa meus queridos 😊, Bem vindos ao meu github, Eu sou Wellington Silva . 
 
 
-Sou estudante de programação , faço o curso sistema de informação na Universidade Federal do Pará.
-Aluno desde 2015 e me formo em dezembro de 2023. Passei 2 anos com depressão por motivos pessoais. Sou um PCD (Foi dificil eu me aceitar, mas hj tá tudo bem), só mais um deficiente tentando viver dignamente no mundo , fã de tecnologia e apaixonado por Front End.
+Sou Concluinte do curso de sistema de informação na Universidade Federal do Pará.
+Aluno desde 2015 e me formo em dezembro de 2025, ja defendi o TCC. Passei 3 anos com depressão por motivos pessoais. Sou um PCD (Foi dificil eu me aceitar, mas hj tá tudo bem), só mais um deficiente tentando viver dignamente no mundo , fã de tecnologia e apaixonado por Front End. Atualmente tentando migrar para o Back end.
 
 Redes Sociais ->
 
