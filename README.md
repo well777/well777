@@ -1,7 +1,7 @@
 ## Falaaaaaa meus queridos 😊, Bem vindos ao meu github, Eu sou Wellington Silva . 
 
 
-Meu nome é Wellington Silva Santos, sou graduado em Sistemas de Informação pela Universidade Federal do Pará e tenho experiência significativa na área de desenvolvimento, tanto back-end quanto full stack, além de conhecimentos sólidos em análise de dados. Ao longo da minha carreira, tive a oportunidade de trabalhar em diversas áreas da tecnologia, o que me proporcionou uma visão ampla e prática do desenvolvimento de soluções eficientes e robustas.
+Meu nome é Wellington Silva Santos, sou graduando em Sistemas de Informação pela Universidade Federal do Pará e tenho experiência significativa na área de desenvolvimento, tanto back-end quanto full stack, além de conhecimentos sólidos em análise de dados. Ao longo da minha carreira, tive a oportunidade de trabalhar em diversas áreas da tecnologia, o que me proporcionou uma visão ampla e prática do desenvolvimento de soluções eficientes e robustas.
 
 Atuei como estagiário no Serpro, onde desenvolvi habilidades em low code, criei soluções usando PHP, JavaScript, HTML, CSS e Python, e participei ativamente na organização de backlog e priorização de tarefas, colaborando diretamente com a equipe para melhorar a eficiência dos projetos. Além disso, tive a oportunidade de trabalhar com banco de dados, realizando inserções e consultas em MSQL, o que me deu uma base sólida em DBA e gerenciamento de dados.
 
