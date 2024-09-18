@@ -1,8 +1,15 @@
 ## Falaaaaaa meus queridos 😊, Bem vindos ao meu github, Eu sou Wellington Silva . 
 
 
-Sou Concluinte do curso de sistema de informação na Universidade Federal do Pará.
-Aluno desde 2015 e me formo em dezembro de 2025, ja defendi o TCC. Passei 3 anos com depressão por motivos pessoais. Sou um PCD (Foi dificil eu me aceitar, mas hj tá tudo bem), só mais um deficiente tentando viver dignamente no mundo , fã de tecnologia e apaixonado por Front End. Atualmente tentando migrar para o Back end.
+Meu nome é Wellington Silva Santos, sou graduado em Sistemas de Informação pela Universidade Federal do Pará e tenho experiência significativa na área de desenvolvimento, tanto back-end quanto full stack, além de conhecimentos sólidos em análise de dados. Ao longo da minha carreira, tive a oportunidade de trabalhar em diversas áreas da tecnologia, o que me proporcionou uma visão ampla e prática do desenvolvimento de soluções eficientes e robustas.
+
+Atuei como estagiário no Serpro, onde desenvolvi habilidades em low code, criei soluções usando PHP, JavaScript, HTML, CSS e Python, e participei ativamente na organização de backlog e priorização de tarefas, colaborando diretamente com a equipe para melhorar a eficiência dos projetos. Além disso, tive a oportunidade de trabalhar com banco de dados, realizando inserções e consultas em MSQL, o que me deu uma base sólida em DBA e gerenciamento de dados.
+
+Também trabalhei na Universidade Federal do Pará, aprimorando minhas habilidades com o sistema de gerenciamento de conteúdo Joomla, além de contribuir para o design e desenvolvimento de websites, o que fortaleceu meu conhecimento em gestão de conteúdo e desenvolvimento de sistemas.
+
+Minha experiência em bioinformática me proporcionou uma base sólida em análise de dados complexos, o que acredito ser um diferencial valioso para os desafios apresentados na vaga, especialmente se envolverem o processamento e a interpretação de grandes volumes de informações.
+
+Com minha combinação de habilidades técnicas, experiência prática em desenvolvimento e análise de dados, e a capacidade de trabalhar em equipe e resolver problemas, acredito que posso contribuir significativamente para o sucesso da empresa. Estou sempre em busca de aprimoramento e disposto a enfrentar novos desafios, o que me motiva a me candidatar a essa vaga
 
 Redes Sociais ->
 
