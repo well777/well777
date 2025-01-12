@@ -1,18 +1,17 @@
-## Falaaaaaa meus queridos 😊, Bem vindos ao meu github, Eu sou Wellington Silva . 
+## Speak my dears 😊, Welcome to my github, I am Wellington Silva.. 
 
 
-Meu nome é Wellington Silva Santos, sou graduando em Sistemas de Informação pela Universidade Federal do Pará e tenho experiência significativa na área de desenvolvimento, tanto back-end quanto full stack, além de conhecimentos sólidos em análise de dados. Ao longo da minha carreira, tive a oportunidade de trabalhar em diversas áreas da tecnologia, o que me proporcionou uma visão ampla e prática do desenvolvimento de soluções eficientes e robustas.
+My name is Wellington Silva Santos, I have a degree in Information Systems from the Federal University of Pará and I have significant experience in the development area, both full stack and solid knowledge in data analysis. Throughout my career, I have had the opportunity to work in several areas of technology, which has given me a broad and practical vision of developing efficient and robust solutions.
 
-Atuei como estagiário no Serpro, onde desenvolvi habilidades em low code, criei soluções usando PHP, JavaScript, HTML, CSS e Python, e participei ativamente na organização de backlog e priorização de tarefas, colaborando diretamente com a equipe para melhorar a eficiência dos projetos. Além disso, tive a oportunidade de trabalhar com banco de dados, realizando inserções e consultas em MSQL, o que me deu uma base sólida em DBA e gerenciamento de dados.
+I worked as an intern at Serpro, where I developed low-code skills, created solutions using PHP, JavaScript, HTML, CSS and Python, and actively participated in organizing backlogs and prioritizing tasks, collaborating directly with the team to improve project efficiency. In addition, I had the opportunity to work with databases, performing insertions and queries in MSQL, which gave me a solid foundation in DBA and data management.
 
-Também trabalhei na Universidade Federal do Pará, aprimorando minhas habilidades com o sistema de gerenciamento de conteúdo Joomla, além de contribuir para o design e desenvolvimento de websites, o que fortaleceu meu conhecimento em gestão de conteúdo e desenvolvimento de sistemas.
+I also worked at the Federal University of Pará, improving my skills with the Joomla content management system, in addition to contributing to the design and development of websites, which strengthened my knowledge in content management and systems development.
 
-Minha experiência em bioinformática me proporcionou uma base sólida em análise de dados complexos, o que acredito ser um diferencial valioso para os desafios apresentados na vaga, especialmente se envolverem o processamento e a interpretação de grandes volumes de informações.
+My experience in bioinformatics has given me a solid foundation in complex data analysis, which I believe will be a valuable asset for the challenges presented in the position, especially if they involve processing and interpreting large volumes of information.
 
-Com minha combinação de habilidades técnicas, experiência prática em desenvolvimento e análise de dados, e a capacidade de trabalhar em equipe e resolver problemas, acredito que posso contribuir significativamente para o sucesso da empresa. Estou sempre em busca de aprimoramento e disposto a enfrentar novos desafios, o que me motiva a me candidatar a essa vaga
+With my combination of technical skills, hands-on experience in data development and analysis, and the ability to work as part of a team and solve problems, I believe I can contribute significantly to the success of the company. I am always seeking to improve and willing to take on new challenges, which is why I am applying for this position.
 
-Redes Sociais ->
-
+Social Media ->
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100091464671928)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-silva-544464214/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3B%2BybbsUQKSlOgXe62xMh2ew%3D%3D)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wellington_sinva/)
